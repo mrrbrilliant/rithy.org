@@ -1,0 +1,111 @@
+baseURL = "http://rithy.org/"
+languageCode = "en-us"
+title = "Rithy's notes!"
+theme = "pi"
+
+copyright = "© Copyright notice"
+
+# Enable syntax highlighting.
+pygmentsstyle = "solarized-dark"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+# Your Google analytics code.
+googleAnalytics = "UA-123-45"
+
+# Your Disqus sortname.
+disqusShortname = "localhost"
+
+# Number of posts to show in recent posts list (Optional). Defaults to 10.
+paginate = 10
+
+# Number of characters to show in summary.
+summaryLength = 20
+
+[params]
+    # Blog subtitle which appears below blog title. Supports markdown.
+    subtitle = "A record of projects I do and life I live. Top three prioritized projects: [KOOMPI](https://koompi.com), [VitaminAir](https://vitaminair.org), and [Selendra Blockchain](https://selendra.org)"
+
+	# Optional 64x64 avatar image.
+	avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
+
+    # Content types which are included in home page recent posts list.
+    mainSections = ["posts"]
+
+    # Content types which are excludes Disqus comments.
+    disableDisqusTypes = ["page"]
+
+    # If social media links are enabled then enable this to fetch icons from CDN instead of hosted on your site.
+    featherIconsCDN = true
+
+    # Specify favicon (icons/i.png maps to static/icons/i.png). No favicon if not defined.
+    favicon = "icons/myicon.png"
+
+    # Switch to dark mode or auto detect mode from OS (Optional).
+    # "dark" will set mode to dark and "auto" will switch to dark mode if OS is in dark mode.
+    mode = "auto" # "dark" or "auto"
+
+    # Custom CSS added to default styles. Files added to `static` folder is copied as it is to
+    # root by Hugo. For example if you have custom CSS file under `static/css/custom.css` then
+    # you can specify custom css path as `css/custom.css`.
+    customCSS = "css/custom.css"
+    # Custom CSS added to dark mode style.
+    customDarkCSS = "css/custom-dark.css"
+
+    # Custom list of Javascript files to load. Just like custom CSS you can place js files under
+    # `static/js` folder and specify path here as `js/script-name.js`. You can also specify full url,
+    # for example you may want to include external JS library.
+    customJS = ["js/abc.js", "js/xyz.js", "https://code.jquery.com/jquery-3.4.1.js"]
+
+# Main menu which appears below site header.
+[[menu.main]]
+name = "All posts"
+url = "/"
+weight = 8
+
+[[menu.main]]
+name = "Books Rec."
+url = "/books"
+weight = 3
+
+[[menu.main]]
+name = "Projects"
+url = "/projects"
+weight = 3
+
+[[menu.main]]
+name = "Resilience"
+url = "/resilient"
+weight = 3
+
+[[menu.main]]
+name = "Good Ideas"
+url = "/ideas"
+weight = 3
+
+# [[menu.main]]
+# name = "Tags"
+# url = "/tags"
+# weight = 6
+
+# Social media links which shows up on site header.
+# Uses feather icons for icons. You can [search icon names from here](https://feathericons.com/).
+[[params.social]]
+name = "Github"
+icon = "github"
+url = "https://github.com/rithythul"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/rithythul"
+
+[[params.social]]
+name = "RSS"
+icon = "rss"
+url = "/index.xml"
+
+
+# Enable tags.
+# [taxonomies]
+# tag = "tags"
