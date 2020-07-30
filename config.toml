@@ -1,6 +1,6 @@
 baseURL = "http://rithy.org/"
 languageCode = "en-us"
-title = "Rithy.Org"
+title = "rithy.org"
 theme = "pi"
 
 copyright = "© Copyright notice"
@@ -24,7 +24,7 @@ summaryLength = 20
 
 [params]
     # Blog subtitle which appears below blog title. Supports markdown.
-    subtitle = "A notes of ideas and inspiration from my universe. My current top three projects: [KOOMPI](https://koompi.com), [VitaminAir](https://vitaminair.org), and [Selendra Blockchain](https://selendra.org)"
+    subtitle = "A notes of ideas and inspiration from my universe. My current top three projects: [KOOMPI Notebook](https://koompi.com), [VitaminAir Reforestation](https://vitaminair.org), and [Selendra Blockchain](https://selendra.org) and [SmallWorld](https://smallworldventure.com) & The [Opensea Venture](https://rithy.org/projects/opensea/open-sea/) "
 
 	# Optional 64x64 avatar image.
 	# avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
