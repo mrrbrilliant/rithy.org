@@ -1,6 +1,6 @@
 baseURL = "http://rithy.org/"
 languageCode = "en-us"
-title = "Rithy's notes!"
+title = "Rithy.Org"
 theme = "pi"
 
 copyright = "© Copyright notice"
@@ -24,10 +24,11 @@ summaryLength = 20
 
 [params]
     # Blog subtitle which appears below blog title. Supports markdown.
-    subtitle = "A record of projects I do and life I live. Top three prioritized projects: [KOOMPI](https://koompi.com), [VitaminAir](https://vitaminair.org), and [Selendra Blockchain](https://selendra.org)"
+    subtitle = "A notes of ideas and inspiration from my universe. My current top three projects: [KOOMPI](https://koompi.com), [VitaminAir](https://vitaminair.org), and [Selendra Blockchain](https://selendra.org)"
 
 	# Optional 64x64 avatar image.
-	avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
+	# avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
+      avatar = "icons/curl-icon.png"
 
     # Content types which are included in home page recent posts list.
     mainSections = ["posts"]
@@ -39,7 +40,7 @@ summaryLength = 20
     featherIconsCDN = true
 
     # Specify favicon (icons/i.png maps to static/icons/i.png). No favicon if not defined.
-    favicon = "icons/myicon.png"
+    favicon = "icons/curl-icon.png"
 
     # Switch to dark mode or auto detect mode from OS (Optional).
     # "dark" will set mode to dark and "auto" will switch to dark mode if OS is in dark mode.
