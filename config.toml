@@ -24,11 +24,11 @@ summaryLength = 20
 
 [params]
     # Blog subtitle which appears below blog title. Supports markdown.
-    subtitle = "A notes of ideas and inspiration from my universe. My current top three projects: [KOOMPI Notebook](https://koompi.com), [VitaminAir Reforestation](https://vitaminair.org), and [Selendra Blockchain](https://selendra.org) and [SmallWorld](https://smallworldventure.com) & The [Opensea Venture](https://rithy.org/projects/opensea/open-sea/) "
+    subtitle = "A notes of ideas and inspiration from my universe. My current top three projects: [KOOMPI Notebook](https://koompi.com), [VitaminAir](https://vitaminair.org), and [Selendra Blockchain](https://selendra.org) and [SmallWorld Venture](https://smallworldventure.com) & The [Opensea Venture](https://rithy.org/projects/opensea/open-sea/) "
 
 	# Optional 64x64 avatar image.
 	# avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
-      avatar = "icons/curl-icon.png"
+    # avatar = "img/avatar.png"
 
     # Content types which are included in home page recent posts list.
     mainSections = ["posts"]
@@ -40,7 +40,7 @@ summaryLength = 20
     featherIconsCDN = true
 
     # Specify favicon (icons/i.png maps to static/icons/i.png). No favicon if not defined.
-    favicon = "icons/curl-icon.png"
+    favicon = "icons/fav.png"
 
     # Switch to dark mode or auto detect mode from OS (Optional).
     # "dark" will set mode to dark and "auto" will switch to dark mode if OS is in dark mode.
