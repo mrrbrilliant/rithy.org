@@ -1,7 +1,7 @@
 baseURL = "http://rithy.org/"
 languageCode = "en-us"
 title = "rithy.org"
-theme = "pi"
+theme = "pugo"
 
 copyright = "© Copyright notice"
 
@@ -96,7 +96,6 @@ name = "Github"
 icon = "github"
 url = "https://github.com/rithythul"
 
-
 [[params.social]]
 name = "Telegram"
 icon = "send"
@@ -124,5 +123,5 @@ url = "/index.xml"
 
 
 # Enable tags.
-# [taxonomies]
-# tag = "tags"
+[taxonomies]
+tag = "tags"
