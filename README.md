@@ -1,4 +1,5 @@
-# Rithy.org
+# Rithy.org [![CircleCI](https://circleci.com/gh/rithythul/rithy.org.svg?style=svg)](https://circleci.com/gh/rithythul/rithy.org)
+
 
 This is a change from rithythul.com to rithy.org is a life reflection that I want to dedicated my works to service humaniterian efforts. 
 
@@ -19,4 +20,3 @@ To-do for the site
 
 
 
-[![CircleCI](https://circleci.com/gh/rithythul/rithy.org.svg?style=svg)](https://circleci.com/gh/rithythul/rithy.org)
