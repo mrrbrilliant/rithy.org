@@ -13,3 +13,10 @@ To-do for the site
 - add short desc to pages
 - add google analytic
 - take out tags
+
+
+
+
+
+
+[![CircleCI](https://circleci.com/gh/rithythul/rithy.org.svg?style=svg)](https://circleci.com/gh/rithythul/rithy.org)
