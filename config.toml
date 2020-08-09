@@ -65,23 +65,19 @@ url = "/"
 weight = 8
 
 [[menu.main]]
-name = "Books Rec."
-url = "/books"
+name = "Books"
+url = "/read"
 weight = 3
 
 [[menu.main]]
-name = "Projects"
-url = "/projects"
-weight = 3
-
-[[menu.main]]
-name = "Resilience"
+name = "My Book"
 url = "/resilient"
 weight = 3
 
+
 [[menu.main]]
-name = "Good Ideas"
-url = "/ideas"
+name = "Ventures"
+url = "/ventures"
 weight = 3
 
 # [[menu.main]]
