@@ -9,11 +9,9 @@ This personal website is reflect on that experience; my works, my play, my life,
 
 To-do for the site
 
-- add disqus commenting
 - add img/media
 - add short desc to pages
 - add google analytic
-- take out tags
 
 
 
