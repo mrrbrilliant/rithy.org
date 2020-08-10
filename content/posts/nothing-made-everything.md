@@ -4,12 +4,38 @@ date: 2020-06-13T10:58:53+07:00
 draft: true
 ---
 
-What made up the universe? Did the universe derived from the bigbang?
+What created our universe, or how was the universe created? 
 
-For now, the bigbang is known as the beggining of our universe, agreed by many scientist. If it was true, what was before bigbang?
+Was our universe a result of a big bang?
 
-Let's assume that it was nothing. If it' was nothing, then we have got this whole univese from nothing. Let's talk talk about multiverse. 
+The big bang is how we often explain the way our universe began. 
 
-If we assume that it was something before the bigbang, then what was it or where was it? We don't know. 
+It's a theory that the universe began from a single point in space, and then began expanding.
 
-If that is so, lets us work with what we know and what we have. If what we have is nothing...
+Over the years it has grown to be as large as it is now, and it's continues to grow.
+
+I wonder, what was there before this big bang?
+
+If we assume there was nothing, then all that exists comes from from nothing. 
+
+But instead of a universe, let's consider a multiverse.
+
+A multiverse is another theory, a theory of multiple universes. 
+
+Within these multiple universes, everything exists.
+
+All of space, time, matter, energy, and information.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
