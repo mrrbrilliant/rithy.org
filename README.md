@@ -1,11 +1,15 @@
 # Rithy.org [![CircleCI](https://circleci.com/gh/rithythul/rithy.org.svg?style=svg)](https://circleci.com/gh/rithythul/rithy.org)
 
 
-This is a change from rithythul.com to rithy.org is a life reflection that I want to dedicated my works to service humaniterian efforts. 
+This is a transition from rithythul.com to rithy.org 
 
-In the past 10 plus years, I have been very fortunate to have met many great people whom become my mentors, supporters, and friend. I have been recieving so much supports from them. It's time to give more, so life can be more whole.
+rithy.org represents my personal reflections on life, and is dedicated my work and service toward humanitarian efforts. 
 
-This personal website is reflect on that experience; my works, my play, my life, some principle, philosophy,and anything that made up to my being.
+Over the past decade, I have been fortunate to have met many great people who have become mentors, supporters, and friends. 
+
+I have received so much positive support from them, that it's become my time to give back.
+
+This is my personal website, a reflection of my being, my experiences, principles, philosophy, work and play.
 
 To-do for the site
 
