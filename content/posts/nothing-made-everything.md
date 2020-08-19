@@ -4,7 +4,7 @@ date: 2020-06-13T10:58:53+07:00
 draft: true
 ---
 
-What created our universe, or how was the universe created? 
+What created our universe? 
 
 Was our universe a result of a big bang?
 
