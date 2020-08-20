@@ -12,4 +12,6 @@ Over the past decade, I have been fortunate to have met many great people who ha
 
 I have received so much positive support from them, that now has become my time to give back.
 
-This is my personal website, a reflection of my being, my experiences, principles, philosophy, work and play.
+I will write about my thought & reflection of my being, my experiences, principles, philosophy, work and play. Hope this will help some people who can make use of it.
+
+I hope to one day contribute bigger things, than just writing. Will first let's it flow, then let hope it will glow. Or let's it be!
