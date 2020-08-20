@@ -18,8 +18,8 @@ Many cause from not able to fulfill their needs. Many casued from not able to di
 
 If you have pure __ambition__, you would certaintly have __purpose to being__. Then, you would feel like your work is part of your evolutionary development. You'd be more active and more energetic with what you do. 
 
-When you are active, you have not time to stress. So you would certaintly live longer and happier.
+When you are active, you have no time for stress. So you would certaintly live longer and more happy.
 
-So having __ambition__ is a good thing, as long as it is not currupted, when you reach a certain stage of the development. Many people got drunk of material and power.
+Having __ambition__ is a very good thing, as long as it is not currupted, when you reach a certain stage. Many people got drunk with materials and power.
 
-To keep oneself away from currupting the original __ambition__, ones must remember where they come from or another word their __IKIGAI__. The __purpose to being__ to be existent. So we must have __IKIGASM__ more often. 
+To keep oneself away from currupting the original __ambition__, ones must stay conscious of their root, where they come from or another word their __IKIGAI__. Another word, ones should have __IKIGASM__ more often. 
