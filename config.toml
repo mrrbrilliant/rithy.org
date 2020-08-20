@@ -24,11 +24,11 @@ summaryLength = 164
 
 [params]
     # Blog subtitle which appears below blog title. Supports markdown.
-    subtitle = "Notes of ideas and inspiration from life encounting matters. Current top projects are [KOOMPI Notebook](https://koompi.com), [VitaminAir](https://vitaminair.org), and [Selendra Blockchain](https://selendra.org) and [SmallWorld Venture](https://smallworldventure.com) & The [Opensea Venture](https://rithy.org/projects/opensea/open-sea/) "
+    subtitle = "Notes of ideas and inspiration from life encounting matters. Current top projects are [KOOMPI Notebook](https://koompi.com), [VitaminAir](https://vitaminair.org), and [Selendra Blockchain](https://selendra.org) and [SmallWorld Venture](https://smallworldventure.com)"
 
 	# Optional 64x64 avatar image.
-	# avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
-    # avatar = "img/avatar.png"
+	avatar = "https://image.freepik.com/free-vector/boy-vampire-with-cape-curly-hair_24640-20827.jpg"
+    # avatar = "icons/fav.png"
 
     # Content types which are included in home page recent posts list.
     mainSections = ["posts"]
