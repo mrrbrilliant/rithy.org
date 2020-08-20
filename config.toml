@@ -64,21 +64,21 @@ name = "All posts"
 url = "/"
 weight = 8
 
-[[menu.main]]
-name = "Books"
-url = "/read"
-weight = 3
+#[[menu.main]]
+#name = "Books"
+#url = "/read"
+#weight = 3
 
-[[menu.main]]
-name = "My Book"
-url = "/resilient"
-weight = 3
+#[[menu.main]]
+#name = "My Book"
+#url = "/resilient"
+#weight = 3
 
 
-[[menu.main]]
-name = "Ventures"
-url = "/ventures"
-weight = 3
+#[[menu.main]]
+#name = "Ventures"
+#url = "/ventures"
+#weight = 3
 
 # [[menu.main]]
 # name = "Tags"
