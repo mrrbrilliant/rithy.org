@@ -1,6 +1,6 @@
 baseURL = "http://rithy.org/"
 languageCode = "en-us"
-title = "Rithy.org"
+title = "Notebook"
 theme = "pugo"
 
 copyright = "© Copyright notice"
@@ -60,27 +60,27 @@ summaryLength = 164
 
 # Main menu which appears below site header.
 [[menu.main]]
-name = "All posts"
-url = "/"
+name = "Posts"
+url = "/posts"
 weight = 8
 
 #[[menu.main]]
 #name = "Books"
-#url = "/read"
+#url = "/posts/what-is-it/"
 #weight = 3
-
+#
 #[[menu.main]]
-#name = "My Book"
-#url = "/resilient"
+#name = "About"
+#url = "/posts/what-is-it/"
 #weight = 3
-
-
+#
+#
 #[[menu.main]]
 #name = "Ventures"
 #url = "/ventures"
 #weight = 3
-
-# [[menu.main]]
+#
+## [[menu.main]]
 # name = "Tags"
 # url = "/tags"
 # weight = 6
