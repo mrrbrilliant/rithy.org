@@ -43,4 +43,4 @@ __There are twelve main guiding principles for teaching and learning in 21st Cen
 
 - __Safer Space-making__: Provide an environment of physical, social, and emotional safety. Set and keep critical boundaries. Foster great freedom within an appropriate frame of safety and legality, so that kids’ energy can be freed up to focus on learning instead of protecting themselves.
 
-Exert:__Agile Learning Center__
+Exert: __Agile Learning Center__ 
