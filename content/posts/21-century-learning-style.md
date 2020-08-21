@@ -1,4 +1,8 @@
-__A 21st Century Working & Learning__
+---
+title: "A 21st Century Learning Style"
+date: 2020-08-21T18:30:45+07:00
+draft: true
+---
 
 Young people today will need to succeed in a very different world than the one we’ve known – one completely outside the reach of traditional schooling.
 
