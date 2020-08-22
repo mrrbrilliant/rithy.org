@@ -24,7 +24,7 @@ summaryLength = 164
 
 [params]
     # Blog subtitle which appears below blog title. Supports markdown.
-    subtitle = "Notes of ideas and inspiration from life encounting matters. Current top projects are [KOOMPI Notebook](https://koompi.com), [VitaminAir](https://vitaminair.org), and [Selendra Blockchain](https://selendra.org) and [SmallWorld Venture](https://smallworldventure.com)"
+    subtitle = "Notes of ideas and inspiration from life encounting matters. Current top projects are [KOOMPI Notebook](https://koompi.com), [VitaminAir](https://vitaminair.org), and [Selendra Blockchain](https://selendra.org) and [SmallWorld Venture](https://smallworldventure.com)."
 
 	# Optional 64x64 avatar image.
 	avatar = "https://image.freepik.com/free-vector/boy-vampire-with-cape-curly-hair_24640-20827.jpg"
