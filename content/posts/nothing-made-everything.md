@@ -6,36 +6,12 @@ draft: true
 
 What created our universe? 
 
-Was our universe a result of a big bang?
+Modern scientists agreed that the universe made from the big bang? Before the big bang there was nothing but a small dent point of energy which was unknown of it origin either.
 
-The big bang is how we often explain the way our universe began. 
+Keep god and others force aside, we could conclude that universe was made out of nothing. The whole universe, everything we knew and everything that made us happy and sad -- and everything else was made out of nothing.
 
-It's a theory that the universe began from a single point in space, and then began expanding.
+Is nothing our origin? Base on this, it may be is true. If that why do we try so hard to make new things. We should go back and work with the origin, because it made everything that come to existen.
 
-Over the years it has grown to be as large as it is now, and it's continues to grow.
+If we could have a whole universe from nothing, everything we will ever need will also come from nothing. Nothing is everything, everything is nothing. 
 
-I wonder, what was there before this big bang?
-
-If we assume there was nothing, then all that exists comes from from nothing. 
-
-But instead of a universe, let's consider a multiverse.
-
-A multiverse is another theory, a theory of multiple universes. 
-
-Within these multiple universes, everything exists.
-
-All of space, time, matter, energy, and information.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Sound strange but think about it. Take a day to meditate on it.
