@@ -1,3 +1,9 @@
+---
+title: "One Million Koompi E11"
+date: 2020-08-28T08:43:16-04:00
+draft: true
+---
+
 KOOMPI::One Student One Notebook
 
 How to make E11 :: $99.99 per notebook?
