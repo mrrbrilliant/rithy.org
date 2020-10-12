@@ -28,4 +28,4 @@ This is not the only way. This is one of the way we do at SmallWorld. We are sti
 
 We believe that those who work hard to create more value to the company, shall be reward more regardless they come late or early. In contrast, those who join early but only stay around so they can get something if it’s successful, should get less or be pause the involvement, if s/he disturbed the progress of the organization. It sounds harsh but it’s the fact that is really hard to deny. 
 
-I hope this is of some help. If you have more question, please feel free to ask on [Telegram](t.me/rithythul) channel.
+I hope this is of some help. If you have more question, please feel free to ask on [Telegram](https://t.me/rithythul/210) channel.
