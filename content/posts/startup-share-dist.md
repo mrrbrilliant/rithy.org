@@ -1,5 +1,5 @@
 ---
-title: "Startup Share Dist"
+title: "Startup Share Fair Distibution Protocol"
 date: 2020-10-12T09:42:25+07:00
 draft: true
 ---
