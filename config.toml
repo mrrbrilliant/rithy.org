@@ -24,7 +24,7 @@ summaryLength = 164
 
 [params]
     # Blog subtitle which appears below blog title. Supports markdown.
-    subtitle = "Welcome to my world. I do Venture@[SmallWorld](https://smallworldventure.com), Tech@[KOOMPI](https://koompi.com), Tlant Trees@[VitaminAir](https://vitaminair.org), Blockchain-ing@[Selendra](https://selendra.org), Electifying Bike@[GROOD](https://getgrood.com), and Blog@[rithy.org](https://rithy.org)."
+    subtitle = "Welcome to my world. I Venture@[SmallWorld](https://smallworldventure.com), Build Tech Platform @[KOOMPI](https://koompi.com), Plant Trees @[VitaminAir](https://vitaminair.org), Internet 2.0 @[Selendra](https://selendra.org), Electifying Bikes @[GROOD](https://getgrood.com), and Blog @[rithy.org](https://rithy.org)."
 
 	# Optional 64x64 avatar image.
 	# avatar = "https://image.freepik.com/free-vector/boy-vampire-with-cape-curly-hair_24640-20827.jpg"
