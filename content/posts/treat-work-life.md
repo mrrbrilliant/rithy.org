@@ -1,5 +1,5 @@
 ---
-title: "Treat Work Life"
+title: "Treat Work Life Relationship Well"
 date: 2020-10-22T11:25:44+07:00
 draft: true
 ---
