@@ -44,3 +44,5 @@ I am thankful to them for their dedication, commitment, and the pursuit to do th
 Thank you for reading. I do hope you find your work as important as we with ours. If more people think their work is important, the world could be more hopeful, cheerful, joyful, and tasty. 
 
 Have a good weekend.
+
+I write often on many topic on my [telegram channel](t.me/rithythul). You can also follow me there.
