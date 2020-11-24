@@ -20,10 +20,10 @@ Example situations;
 
 - When I worry: would **Buddha** and **Jesus** worry about such thing? What would they do if they are in my situation right now?
 
-- Temper: would **Buddha** or **Forest Gump** get mad what I am mad at right now? What would he do with such situation? 
+- Temper: would **Buddha** or **Forest Gump** get mad with what I am mad at right now? What would he do if he is in my situation now? 
 
 - Language: am I using the language **Abraham** or **Jobs** would use? 
-
+i 
 - Discussion: is this the conversation **Alexander**, **Elon** or **Westinghouse** would talk about? 
 
 - Reading: would self-taught people like **Tesla**, **Elon**, **Ma** read this things?
