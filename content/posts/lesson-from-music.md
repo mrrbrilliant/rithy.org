@@ -1,5 +1,5 @@
 ---
-title: "Lesson From Music"
+title: "Lesson from Music & Artists"
 date: 2020-11-25T11:12:07+07:00
 draft: true
 ---
