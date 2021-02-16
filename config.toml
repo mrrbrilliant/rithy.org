@@ -24,7 +24,7 @@ summaryLength = 164
 
 [params]
     # Blog subtitle which appears below blog title. Supports markdown.
-    subtitle = "My name is Rithy Thul. I venture@[SmallWorld](https://smallworldventure.com), build tech platform @[KOOMPI](https://koompi.com), plant trees work on green tech @[VitaminAir](https://vitaminair.org), blockchain and internet 2.0 @[Selendra](https://selendra.org), electifying bicycles with my friends @[GROOD](https://getgrood.com), and writing here @[rithy.org](https://rithy.org). Contact me @[Telegram](https://t.me/rithythul)"
+    subtitle = "My name is Rithy Thul. I venture@[SmallWorld](https://smallworldventure.com), build tech platform @[KOOMPI](https://koompi.com), plant trees and green tech @[VitaminAir](https://vitaminair.org), blockchain and internet 2.0 @[Selendra](https://selendra.org), electifying bicycles with my friends @[GROOD](https://getgrood.com), and writing here @[rithy.org](https://rithy.org). Contact me @[Telegram](https://t.me/rithythul)"
 
 	# Optional 64x64 avatar image.
 	# avatar = "https://image.freepik.com/free-vector/boy-vampire-with-cape-curly-hair_24640-20827.jpg"
