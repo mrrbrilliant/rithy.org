@@ -102,10 +102,10 @@ name = "Twitter"
 icon = "twitter"
 url = "https://twitter.com/rithythul"
 
-[[params.social]]
-name = "Facebook"
-icon = "facebook"
-url = "https://fb.com/rithy.org"
+# [[params.social]]
+# name = "Facebook"
+# icon = "facebook"
+# url = "https://fb.com/rithy.org"
 
 [[params.social]]
 name = "Linkedin"
