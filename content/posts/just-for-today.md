@@ -1,7 +1,7 @@
 ---
 title: "Just for Today"
 date: 2020-10-22T15:46:43+07:00
-draft: true
+draft: false
 ---
 Today, I will TREAT my energy as money. I budget it, save it, find away to increase it, invest it where I would get a return.
 

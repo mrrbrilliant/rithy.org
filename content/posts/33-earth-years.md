@@ -1,7 +1,7 @@
 ---
 title: "33 Earth Year"
 date: 2019-11-09T12:21:57+07:00
-draft: true
+draft: false
 ---
 
 ## Some reflections on what I have learned and believe about life.

@@ -1,7 +1,7 @@
 ---
 title: "Building From Thin Air"
 date: 2020-01-20T18:35:07+07:00
-draft: true
+draft: false
 ---
 
 Imagine making fuel, plastics, and concrete out of “thin air." That’s the promise of Direct Air Capture (DAC).

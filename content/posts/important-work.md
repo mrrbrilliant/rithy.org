@@ -1,7 +1,7 @@
 ---
 title: "Become Important by Thinking Your Work Is Important"
 date: 2020-11-21T13:45:01+07:00
-draft: true
+draft: false
 ---
 
 Become Important by Thinking Your Work Is Important

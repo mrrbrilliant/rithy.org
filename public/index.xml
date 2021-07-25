@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello, World!</title>
+    <link>http://rithy.org/</link>
+    <description>Recent content on Hello, World!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Thu, 16 Jul 2020 16:33:49 +0700</lastBuildDate><atom:link href="http://rithy.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vitamain Air</title>
+      <link>http://rithy.org/ventures/vitaminair/reforestation/</link>
+      <pubDate>Thu, 16 Jul 2020 16:33:49 +0700</pubDate>
+      
+      <guid>http://rithy.org/ventures/vitaminair/reforestation/</guid>
+      <description>  Seedbomb
+ Hardware  Drone Bomb LRAD   Software  ROS Aircode   Plus  Servelliance Air Sensors      Water8
+ Air2Water Ramp Pump Low Velocity Solar Pump (LVSP) Mini Hydromotor Energy    Tourism
+ Tour Acitivity Dev Suplimental Education Support Program    Farm
+ Permeculture  fruits crop selection trees seeds sorting   Farm Investment Management via Tokenization Community Income Gen. Dev Trees planting    Tokenization
+ Oz natural resources FARM invest    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://rithy.org/posts/a-very-long-night/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rithy.org/posts/a-very-long-night/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

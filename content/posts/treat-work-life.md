@@ -1,7 +1,6 @@
 ---
 title: "Treat as it is your LIFE"
 date: 2020-10-22T11:25:44+07:00
-draft: true
 ---
 
 ### Lets TREAT our food as our LIFE.

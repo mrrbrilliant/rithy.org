@@ -1,17 +1,14 @@
 ---
-title: "What is Rithy.org"
+title: "Continue writting"
 date: 2020-07-30T20:58:53+07:00
-draft: true
 ---
 
-This is a transition from rithythul.com to rithy.org
+[rithy.org](http://rithy.org) is my personal space for self-expression online. A collection of record of my experiences going through life full wonder and challenges. Some of the reflection is an advice to my future Self, while some hope to be mirror for some younger people to avoid mistakes I have made over the years.
 
-rithy.org represents my personal reflections on life, and is dedicated to my work and service toward humanitarian efforts.
+Mid-day of November 14 was when my life truely begun. The first time I truely left home to go into the world outside of my parents' oversight and to pursuit something unknown. I have been fortunate to have met many kind and wonderful human being that showed me being human is super wonderful. While some were lessons to be voide, many others become close friends, mentors, and business partners. 
 
-Over the past decade, I have been fortunate to have met many great people who have become mentors, supporters, and friends.
+I have received so much positive support from them, that now has become my time to pay forward to others through my writing here. I write about my thought & reflection of my being, experiences, principles, philosophy, work and play. Hope this will help some people who can make good use of it.
 
-I have received so much positive support from them, that now has become my time to give back.
+I hope to one day to contribute bigger things, than just writing. For now, will let's things flow and happen on its own. I am here in this life to expiriment and learn. 
 
-I will write about my thought & reflection of my being, my experiences, principles, philosophy, work and play. Hope this will help some people who can make use of it.
-
-I hope to one day contribute bigger things, than just writing. Will first let's it flow, then let hope it will glow. Or let's it be!
+I am thankful that our life somehow has crossed paths. May it crossed again and again. 

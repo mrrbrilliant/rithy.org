@@ -1,7 +1,6 @@
 ---
 title: "Need, Greed, Ambition"
 date: 2020-08-20T19:55:45+07:00
-draft: true
 ---
 
 We are living in the very materialistic society order. I think it is important that we learn to split the different of words such __Need, Greed, Ambition__.

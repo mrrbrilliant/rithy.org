@@ -1,7 +1,6 @@
 ---
 title: "A whole universe for free"
 date: 2020-06-13T10:58:53+07:00
-draft: true
 ---
 
 I am grateful that the universe happened the way it is. I am grateful that life happen the way it is.

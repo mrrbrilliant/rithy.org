@@ -1,7 +1,6 @@
 ---
 title: "Startup Share Fair Distibution Protocol"
 date: 2020-10-12T09:42:25+07:00
-draft: true
 ---
 
 Some friends asked me, many time, about startup share distribution. The formula to divid share among founders and investors? 
