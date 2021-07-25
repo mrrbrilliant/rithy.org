@@ -1,0 +1,30 @@
+name: RITHY CD
+
+on:
+  push:
+    branches: [ master ]
+  workflow_dispatch:
+jobs:
+  RITHY_CD:
+      name: Deploy
+      runs-on: ubuntu-latest
+      environment: 
+        name: Production
+        url: 'https://rithy.org'
+      steps:
+        - name: Checkout Here
+          uses: actions/checkout@v2
+        - name: Install ssh key
+          uses: shimataro/ssh-key-action@v2
+          with:
+            key: ${{ secrets.SSH_KEY }}
+            known_hosts: ${{ secrets.KNOWN_HOSTS }}        
+        - name: Env
+          env:
+            BASH_SECRET: ${{ secrets.BASH_SHELL }}
+          run: |
+            echo "$BASH_SECRET" > deploy_cd
+            chmod +x deploy_cd
+        - name: Deploying
+          run: |
+            ./deploy_cd
