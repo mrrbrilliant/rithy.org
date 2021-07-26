@@ -1,5 +1,4 @@
-# Rithy.org [![CircleCI](https://circleci.com/gh/rithythul/rithy.org.svg?style=svg)](https://circleci.com/gh/rithythul/rithy.org)
-
+# Rithy.org [![RITHY CD](https://github.com/rithythul/rithy.org/actions/workflows/rithy.yml/badge.svg)](https://github.com/rithythul/rithy.org/actions/workflows/rithy.yml)
 
 This is a transition from rithythul.com to rithy.org 
 
