@@ -27,4 +27,4 @@ jobs:
             chmod +x deploy_cd
         - name: Deploying
           run: |
-            ./deploy_cd
+            ./deploy_cd 
