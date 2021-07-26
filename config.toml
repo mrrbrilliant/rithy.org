@@ -69,15 +69,10 @@ name = "About"
 url = "/posts/what-is-it/"
 weight = 1
 
-#[[menu.main]]
-#name = "Projects"
-#url = "/venture"
-#weight = 2
-
-#[[menu.main]]
-# name = "Journal"
-# url = "journal"
-# weight = 3
+[[menu.main]]
+name = "Projects"
+url = "/venture"
+weight = 2
 
 ## [[menu.main]]
 # name = "Tags"
