@@ -24,7 +24,7 @@ summaryLength = 164
 
 [params]
     # Blog subtitle which appears below blog title. Supports markdown.
-    subtitle = "My name is Rithy Thul. I'm a co-founder [SmallWorld](https://smallworldventure.com), one of the first startup support community in Cambodia that provide micro shared workspaces, network to mentors, and funding to early generation of entrepreneurs since 2011. From 2013, SmallWorld put more its efforts in venture building, in result we have companies such as [KOOMPI](https://koompi.com), [VitaminAir](https://vitaminair.org), [Selendra](https://selendra.org), and [Grood](https://getgrood.com)."
+    subtitle = "A co-founder [SmallWorld](https://smallworldventure.com), a Cambodia based homegrown startup community that provide micro workspaces, network of founders and mentors, and micro seed funding to early stage founders, since 2011. SmallWorld also does venture building, which incubated companies such as [KOOMPI](https://koompi.com), [VitaminAir](https://vitaminair.org), [Selendra](https://selendra.org), and [Grood](https://getgrood.com)."
 
 	# Optional 64x64 avatar image.
 	# avatar = "https://image.freepik.com/free-vector/boy-vampire-with-cape-curly-hair_24640-20827.jpg"
