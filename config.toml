@@ -64,15 +64,15 @@ name = "Posts"
 url = "/posts"
 weight = 8
 
-[[menu.main]]
-name = "About"
-url = "/posts/what-is-it/"
-weight = 1
+#[[menu.main]]
+#name = "About"
+#url = "/posts/what-is-it/"
+#weight = 1
 
-[[menu.main]]
-name = "Projects"
-url = "/venture"
-weight = 2
+#[[menu.main]]
+#name = "Projects"
+#url = "/venture"
+#weight = 2
 
 ## [[menu.main]]
 # name = "Tags"
@@ -111,7 +111,6 @@ name = "RSS"
 icon = "rss"
 url = "/index.xml"
 
-
-# Enable tags.
+# Enable Tags
 [taxonomies]
 tag = "tags"
