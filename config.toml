@@ -24,7 +24,7 @@ summaryLength = 164
 
 [params]
     # Blog subtitle which appears below blog title. Supports markdown.
-    subtitle = "A co-founder [SmallWorld](https://smallworldventure.com), big fan of [KOOMPI](https://koompi.com), [Selendra](https://selendra.org), [VitaminAir](https://vitaminair.org)"
+    subtitle = "Co-founder of [SmallWorld Venture](https://smallworldventure.com). Big fan of [KOOMPI](https://koompi.com), [Selendra](https://selendra.org), [VitaminAir](https://vitaminair.org)."
 
 	# Optional 64x64 avatar image.
 	# avatar = "https://image.freepik.com/free-vector/boy-vampire-with-cape-curly-hair_24640-20827.jpg"
