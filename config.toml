@@ -24,7 +24,7 @@ summaryLength = 164
 
 [params]
     # Blog subtitle which appears below blog title. Supports markdown.
-    subtitle = "A co-founder [SmallWorld](https://smallworldventure.com), a Cambodia based homegrown startup community that provide micro shared workspaces, seed funding to early stage founders. SmallWorld also does venture building, which incubated companies such as [KOOMPI](https://koompi.com), [Selendra](https://selendra.org), [VitaminAir](https://vitaminair.org), and [Grood](https://getgrood.com)."
+    subtitle = "A co-founder [SmallWorld](https://smallworldventure.com), big fan of [KOOMPI](https://koompi.com), [Selendra](https://selendra.org), [VitaminAir](https://vitaminair.org)"
 
 	# Optional 64x64 avatar image.
 	# avatar = "https://image.freepik.com/free-vector/boy-vampire-with-cape-curly-hair_24640-20827.jpg"
