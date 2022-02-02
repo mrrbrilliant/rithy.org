@@ -1,12 +1,13 @@
 baseURL = "http://rithy.org/"
 languageCode = "en-us"
-title = "@rithy.org"
+title = "pi@rithy.org"
 theme = "cactus"
 
 copyright = "© Copyright notice"
 
 [params]
   css = ["css/custom.css"]
+
   description = "Co-founder of [SmallWorld](https://smallworldventure.com) which backed great projects such [KOOMPI](https://koompi.com), [Selendra](https://selendra.org), [VitaminAir](https://vitaminair.org) and several others."
   showAllPostsOnHomePage = false
   postsOnHomePage = 9
@@ -29,11 +30,6 @@ weight = 2
 name = "Tags"
 url = "/tags"
 weight = 3
-
-#[[menu.main]]
-#name = "About"
-#url = "/posts/what-is-it.md"
-#weight = 4
 
 # Social media links which shows up on site header.
 # Uses feather icons for icons. You can [search icon names from here](https://feathericons.com/).
