@@ -53,11 +53,6 @@ icon = "twitter"
 link = "https://twitter.com/rithythul"
 
 [[params.social]]
-name = "Facebook"
-icon = "facebook"
-link = "https://fb.com/rithy.org"
-
-[[params.social]]
 name = "Linkedin"
 icon = "linkedin"
 link = "https://linkedin.com/in/rithythul"
