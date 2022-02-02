@@ -69,9 +69,9 @@ weight = 3
       label = "Note To Thysel" # you can use however you want to label your name in your repo's issues
       theme = "cactus"
     [params.comments.cactuscomments]
-      siteName = "rithy:matrix.org" # see https://cactus.chat/ on how to register your site name
-      #serverUrl = "!dxTrOXnXDObwMSLXxI:matrix.org" # Defaults to https://matrix.cactus.chat:8448 (Cactus Chat public server)
-      #serverName = "" # Defaults to cactus.chat
+      siteName = "cactus.chat" # see https://cactus.chat/ on how to register your site name
+      serverUrl = "https://matrix.cactus.chat:8448" # Defaults to https://matrix.cactus.chat:8448 (Cactus Chat public server)
+      serverName = "cactus.chat" # Defaults to cactus.chat
 
 # Social media links which shows up on site header.
 # Uses feather icons for icons. You can [search icon names from here](https://feathericons.com/).
