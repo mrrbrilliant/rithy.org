@@ -9,7 +9,7 @@ copyright = "© Copyright notice"
   css = ["css/custom.css"]
   description = "Co-founder of [SmallWorld](https://smallworldventure.com) which backed great projects such [KOOMPI](https://koompi.com), [Selendra](https://selendra.org), [VitaminAir](https://vitaminair.org) and several others."
   showAllPostsOnHomePage = false
-  postsOnHomePage = 9
+  postsOnHomePage = 12
   tagsOverview = true
   tocInline = true
 
