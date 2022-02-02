@@ -18,7 +18,7 @@ copyright = "© Copyright notice"
 [[menu.main]]
 name = "Home"
 url = "/"
-weight = 1
+weight = 1.0
 
 [[menu.main]]
 name = "Posts"
