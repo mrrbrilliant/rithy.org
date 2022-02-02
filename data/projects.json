@@ -1,0 +1,25 @@
+{
+    "list": [
+       {
+          "name":"SmalWorld",
+          "url":"https://smallworldventure.com/",
+          "desc":"Venture Building and Early Stage Startup Seed Funding!"
+       },
+       {
+          "name":"KOOMPI",
+          "url":"http://koompi.com/",
+          "desc":"Open Soure Laptop and OS from Cambodia. KOOMPI Building tools and providing resources for the next generation of innovators."
+       },
+       {
+        "name":"Selendra",
+        "url":"http://Selendra.org/",
+        "desc":"A multi-chain nominate proof-of-stake network built with Subsrate for building decentralized applications and DAO with minimal learning curve."
+       },
+       {
+        "name":"VitaminAir",
+        "url":"http://vitaminair.org/",
+        "desc":"A real estate development in harmony with nature powered by technology we know how to use, along with a mission to reforest the world starting from Cambodia."
+       }
+
+    ]
+ }
