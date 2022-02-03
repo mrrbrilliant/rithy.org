@@ -45,14 +45,13 @@ weight = 3
 
 # Hope page setting
 # site description
-  description = "Co-founder of [SmallWorld Venture](https://smallworldventure.com) which is the backer of great projects such [KOOMPI OS](https://koompi.com), [Selendra Blockchain Open Network](https://selendra.org), [VitaminAir](https://vitaminair.org) and several others."
+  description = "Co-founder of [SmallWorld Venture](https://smallworldventure.com) which is the backer of great projects such [KOOMPI OS](https://koompi.com), [Selendra Blockchain](https://selendra.org), [VitaminAir](https://vitaminair.org) and several others."
 
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 9 # this option will be ignored if showAllPostsOnHomePage is set to true
   tagsOverview = true # show tags overview by default.
   showProjectsList = true # show projects list by default (if projects data file exists).
-  showComList = true
   projectsUrl = "https://smallworldventure.com" # title link for projects list
 
   # https://gohugo.io/functions/format/#hugo-date-and-time-templating-reference
