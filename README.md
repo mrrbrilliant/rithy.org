@@ -10,11 +10,6 @@ I have received so much positive support from them, that now has become my time 
 
 This is my personal website, a reflection of my being, my experiences, principles, philosophy, work and play.
 
-To-do for the site
-
-- add img/media
-- add short desc to pages
-- add google analytic
 
 
 
