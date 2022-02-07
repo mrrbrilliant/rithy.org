@@ -1,5 +1,6 @@
 #!/bin/bash
 
+git submodule update --init --recursive
 hugo
 sudo rm -rf /var/www/rithy.org
 sudo cp -r public /var/www/rithy.org
