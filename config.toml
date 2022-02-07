@@ -1,4 +1,4 @@
-baseURL = "http://rithy.org/"
+baseURL = "https://rithy.org/"
 languageCode = "en-us"
 title = "@rithy.org"
 theme = "cactus"

@@ -3,7 +3,7 @@ title: "Continue writting"
 date: 2020-07-30T20:58:53+07:00
 ---
 
-[rithy.org](http://rithy.org) is my personal space for self-expression online. A collection of record of my experiences going through life full wonder and challenges. Some of the reflection is an advice to my future Self, while some hope to be mirror for some younger people to avoid mistakes I have made over the years.
+[rithy.org](https://rithy.org) is my personal space for self-expression online. A collection of record of my experiences going through life full wonder and challenges. Some of the reflection is an advice to my future Self, while some hope to be mirror for some younger people to avoid mistakes I have made over the years.
 
 Mid-day of November 14 was when my life truely begun. The first time I truely left home to go into the world outside of my parents' oversight and to pursuit something unknown. I have been fortunate to have met many kind and wonderful human being that showed me being human is super wonderful. While some were lessons to be voide, many others become close friends, mentors, and business partners. 
 

@@ -2,41 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ventures on @rithy.org</title>
-    <link>http://rithy.org/venture/</link>
+    <link>https://rithy.org/venture/</link>
     <description>Recent content in Ventures on @rithy.org</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Fri, 28 Aug 2020 08:43:16 -0400</lastBuildDate><atom:link href="http://rithy.org/venture/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>One Million Koompi E11</title>
-      <link>http://rithy.org/venture/koompi/one-million-koompi-e11/</link>
-      <pubDate>Fri, 28 Aug 2020 08:43:16 -0400</pubDate>
-      
-      <guid>http://rithy.org/venture/koompi/one-million-koompi-e11/</guid>
-      <description>KOOMPI::One Student One Notebook
-How to make E11 :: $99.99 per notebook?
-Gov&amp;rsquo;t subsidized on production cost + sales price cost + tax.
-Gov&amp;rsquo;t give bond garanteed of $100,000,000, KOOMPI find investors that would back the idea and to produce the notebook.
-Investors can take either equity or bond garanteed or bit of both.
-KOOMPI use the economic of scale to produce E11 80$ max per notebook. The aim is to produce 1 million E11.</description>
-    </item>
-    
-    <item>
-      <title>KOOMPI Initiatives</title>
-      <link>http://rithy.org/venture/koompi/initiatives/</link>
-      <pubDate>Thu, 30 Jul 2020 17:15:20 +0700</pubDate>
-      
-      <guid>http://rithy.org/venture/koompi/initiatives/</guid>
-      <description>The school must have a real lab.</description>
-    </item>
-    
+    <lastBuildDate>Thu, 16 Jul 2020 16:33:49 +0700</lastBuildDate><atom:link href="https://rithy.org/venture/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>VitamainAir</title>
-      <link>http://rithy.org/venture/vitaminair/reforestation/</link>
+      <link>https://rithy.org/venture/vitaminair/reforestation/</link>
       <pubDate>Thu, 16 Jul 2020 16:33:49 +0700</pubDate>
       
-      <guid>http://rithy.org/venture/vitaminair/reforestation/</guid>
+      <guid>https://rithy.org/venture/vitaminair/reforestation/</guid>
       <description>Seedbomb
  Hardware  Drone Bomb LRAD   Software  ROS Aircode   Plus  Servelliance Air Sensors      Water8
  Air2Water Ramp Pump Low Velocity Solar Pump (LVSP) Mini Hydromotor Energy    Tourism
