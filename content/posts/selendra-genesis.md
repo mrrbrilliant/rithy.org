@@ -1,7 +1,6 @@
 ---
 title: "Selendra Genesis"
 date: 2022-02-02T19:51:17+07:00
-draft: true
 ---
 
 Selendra mainnet is now live at app.selendra.org. 

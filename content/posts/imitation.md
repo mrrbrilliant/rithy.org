@@ -1,7 +1,6 @@
 ---
 title: "Imitation"
 date: 2020-11-21T20:20:19+07:00
-draft: fales
 ---
 
 Imitation is a great to train and change habit. Imitation is a way to download information from outside into our autopilot mode, if we do enough. 
